@@ -2,5 +2,5 @@
   "kdf": "PBKDF2",
   "hash": "SHA-256",
   "iterations": 250000,
-  "salt": "QL0P7IMSnBPIQldyOacw5Q=="
+  "salt": "vcSC6JrRrAyRaAPcUX4a9g=="
 }
